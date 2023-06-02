@@ -1,0 +1,7 @@
+
+.body{background-color:hsl(219, 30%, 18%);
+    background-repeat: no-repeat ; background-position: 0px 200px ;background-size: 100%;color: hsl(0, 0%, 100%);}
+.illustrationP{width:700px}
+.getstart{background-color: hsl(198, 60%, 50%);cursor: pointer;height:40px; width: 200px; border-radius: 20px;border-color: rgba(0, 255, 255, 0);color: white;}
+@media (max-width:768px){.nav{display: flex;flex-direction: column;};
+.illustration{width: 150px;};.illustration_perant .getstart{width:30px}}
